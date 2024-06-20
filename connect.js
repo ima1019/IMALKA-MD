@@ -1,16 +1,13 @@
 /**
-░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
-░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
+    IMALKA BOT
 
-
-* @project_name PRABATH-MD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/prabathLK>
+* @project_name IMALKA-MD
+* @authors IMALKA BOT-team <https://github.com/cobrs11>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
-* @link <https://github.com/prabathLK/PRABATH-MD>
-* @version 2.1.1
+* @link <https://github.com/cobrs11/IMALKA-MD>
+* @version 1.0
 
-© 2023 Prabath Kumara, SACHI-BOT. All rights reserved.
+© 2024 IMALKA BOT. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
