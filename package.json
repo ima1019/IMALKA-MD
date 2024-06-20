@@ -1,15 +1,15 @@
 {
-"name": "PRABATH-MD",
-"version": "2.1.1",
-"description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"name": "IMALKA-MD",
+"version": "1.0",
+"description": "IMALKA_MD has been fun while using WhatsApp.❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
-"stop": "pm2 stop prabath-md",
+"start": "pm2 start start.js --deep-monitoring --attach --name imalka-md",
+"stop": "pm2 stop imalka-md",
 "restart": "pm2 restart prabath-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
+"@whiskeysockets/baileys": "git+https://github.com/cobrs11/Baileys-6.0.0.git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
 "gemini-ai" : "latest",
