@@ -4,7 +4,7 @@
                                     IMALKA-MD           
                           
 * @project_name IMALKA-MD
-* @authors Prabath Kumara & sachibot-team(Sachintha) <https://github.com/cobrs11>
+* @authors HANSAMAL BOT -team(imalka) <https://github.com/cobrs11>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <https://github.com/cobrs11/IMALKA-MD>
 * @version 1.0
